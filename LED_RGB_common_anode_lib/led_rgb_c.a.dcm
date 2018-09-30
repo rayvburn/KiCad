@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_RGB_C.A.-Pin2
+D LED RGB, common anode (pin 1)
+K led rgb diode
+$ENDCMP
+#
+#End Doc Library

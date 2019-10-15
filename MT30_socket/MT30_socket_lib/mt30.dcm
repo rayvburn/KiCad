@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT30-F
+D female
+K mt30, female
+$ENDCMP
+#
+$CMP MT30-M
+D male
+K mt30, male
+$ENDCMP
+#
+#End Doc Library

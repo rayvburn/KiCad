@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TBD62783
+D Darlington Transistor Arrays
+K darlington transistor array
+F http://www.ti.com/lit/ds/symlink/uln2803a.pdf
+$ENDCMP
+#
+#End Doc Library
